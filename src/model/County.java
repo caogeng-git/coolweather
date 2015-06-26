@@ -5,6 +5,7 @@ public class County {
 	private String countyName;
 	private String countyCode;
 	private int cityId;
+	
 	public int getId() {
 		return id;
 	}

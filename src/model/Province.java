@@ -4,6 +4,7 @@ public class Province {
 	private int id;
 	private String provinceName;
 	private String provinceCode;
+	
 	public int getId() {
 		return id;
 	}
